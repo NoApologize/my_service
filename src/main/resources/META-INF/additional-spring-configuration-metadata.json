@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "server.port.context-path",
+      "type": "java.lang.String",
+      "description": "Description for server.port.context-path."
+  }
+] }
