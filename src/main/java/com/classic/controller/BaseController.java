@@ -16,6 +16,7 @@ public class BaseController {
     @ResponseBody
     @RequestMapping("/begin")
     public String begin() {
+        System.out.printf("0000");
         return baseService.begin();
     }
 
