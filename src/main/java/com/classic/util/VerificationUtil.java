@@ -15,7 +15,7 @@ public class VerificationUtil {
 
     public static void main(String[] args) {
         try {
-            System.out.println(VerificationUtil.someKey("129294"));
+            System.out.println(VerificationUtil.someKey("115683"));
         } catch (Exception e) {
             e.printStackTrace();
         }
